@@ -11,8 +11,16 @@ Dirección de la actividad: https://user.github.io/actividad
 
 **Importante**: si esta completando la actividad como oyente, agregale la etiqueta de oyente así nos facilitas la tarea de corrección. 
 
-# Que te gusto de la actividad?
+Si tenes ganas, contesta alguna o todas las preguntas: (las respuestas son publicas en internet, si preferís mandarnos feedback privado lo podes hacer por las redes sociales o a nuestro mail)
 
-# Que no fue claro de la actividad?
+**Que te gusto de la actividad?**
 
-# Como podríamos mejorarla?
+...
+
+**Que no fue claro de la actividad?**
+
+...
+
+**Como podríamos mejorarla?**
+
+...
