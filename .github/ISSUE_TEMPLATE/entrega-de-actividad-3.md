@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**IMPORTANTE** cambiar en el titulo del issue *<usuerie Telegram>* por su usuerie o nombre que aparece en telegram.
+**IMPORTANTE** cambiar en el titulo del issue *<user Telegram>* por su user o nombre que aparece en telegram.
 
 Dirección de la actividad: https://user.github.io/actividad-3
 
